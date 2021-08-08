@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Dekko');
+
+.home_page{
+   font-family: Dekko;
+}
+
+.profilepic{
+   width: 2.5in; 
+   height: 2.5in;
+   border-radius: 50%;
+}
+
+.intro{
+   padding: 1%;
+   text-align: center;
+   border-bottom: 1px solid grey; 
+   border-top: 1px solid grey;
+}
+
+.afterintro{
+   /* border-bottom: 1px solid grey; */
+   display: flex;
+
+}
+
+.aboutme{
+   width: 8in;
+   font-size: 20px;
+   padding-right: 2%;
+   padding-left:10%;
+}
+
+#name_title{
+   font-size: 40px;
+   padding:0%;
+}
+
+#after_intro_head{
+   font-size: 25px;
+}
+
+.contact{
+   border-top: 1px solid grey;;
+   text-align: center;
+   background-color: #7FFFD4;
+}
+
+.skills_area{
+   width: 6in;
+}
+
+.single_skill{
+   display: inline;
+}
+
+
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 3px; /* Add top padding */
+  padding-bottom: 3px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.python {width: 80%; background-color: #2af8adce;} /* Green */
+.cpp {width: 60%; background-color: #2195f3d2;} /* Blue */
+.asm {width: 70%; background-color: #f44336d2;} /* Red */
+.react {width: 40%; background-color: #808080d8;} /* Dark Grey */
+.iOS {width: 30%; background-color: #5334b9d8;} /* Dark Grey */
+.MCU {width: 70%; background-color: #dacf39d8;} /* Dark Grey */
+
+
+#moreskills{
+   font-weight: bold;
+}

@@ -1,0 +1,20 @@
+.generic{
+    width:650px;
+    height:400px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 1.5%;
+    background-color: rgb(245, 240, 235);
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    margin: 30px;
+
+}
+
+.projectimage{
+    border-radius: 20px;
+    padding: 1px;
+    width: 400px;
+    height: 250px;
+}
