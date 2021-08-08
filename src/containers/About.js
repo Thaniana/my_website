@@ -8,7 +8,7 @@ const About = () => {
             <div class='intro'>
                 <img src={process.env.PUBLIC_URL+'/images/Me.jpg'} alt= "" class='profilepic'></img>
                 {/* <h1> -السلام عليكم میرا نام سلیمان ہے (Hi I am Suleman!)</h1> */}
-                <h1 id="name_title">Suleman hahahah Thanaina</h1>
+                <h1 id="name_title">Suleman Thanaina</h1>
             </div>
             <div class="afterintro">
                 <div class="aboutme">
