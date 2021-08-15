@@ -25,3 +25,12 @@ code {
   font-size: 1.1em;
   
 }
+
+a {
+  color: black;
+
+}
+
+a:hover {
+  color: blue;
+}
