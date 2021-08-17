@@ -1,0 +1,26 @@
+
+.GenericClass{
+    width:97%;
+    height:fit-content;
+    padding: 1%;
+    background-color: rgb(245, 240, 235);
+    box-shadow: 5px 5px;
+    margin: 15px;
+}
+
+
+.className{
+    font-size: x-large;
+    width: 90%;
+
+}
+.semester{
+    width: 10%;
+}
+
+
+.name_semester{
+    display: flex;
+    flex-direction: row;
+
+}
