@@ -6,6 +6,7 @@ import Projects from './containers/Projects';
 import Hiking from './containers/Hiking';
 import Resume from './containers/Resume';
 import Classes from './containers/Classes';
+import Exp from './containers/Exp';
 
 import {Route, Redirect, Switch, HashRouter} from 'react-router-dom'
 
@@ -23,6 +24,7 @@ function App() {
           <Route path='/projects' component={Projects}></Route>
           <Route path='/Hiking' component={Hiking}></Route>
           <Route path='/Classes' component={Classes}></Route>
+          <Route path='/Exp' component={Exp}></Route>
         </Switch>
       </HashRouter>
     </div>
