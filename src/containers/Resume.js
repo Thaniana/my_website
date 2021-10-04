@@ -6,7 +6,9 @@ import '../styles/Resume.css'
 const Resume = () => {
     // let link = 'https://drive.google.com/file/d/1nLn1hXLDi32gE6sg0w0Zcrq7RNQE1LSp/view?usp=sharing' 
     //https://drive.google.com/file/d/19XIhABGac4L2I8zFfAnbqLxi2XPLb6Jl/view?usp=sharing
-    let id = '19XIhABGac4L2I8zFfAnbqLxi2XPLb6Jl'
+
+    // let link = https://drive.google.com/file/d/1IYXHbFL4x6CiaFgC2Wr9eAkECFHgm1Ki/view?usp=sharing
+    let id = '1IYXHbFL4x6CiaFgC2Wr9eAkECFHgm1Ki'
     let src = `https://drive.google.com/file/d/${id}/preview`
 
     return <div class='center'>

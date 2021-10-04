@@ -15,7 +15,7 @@ class NavigationBar extends React.Component {
                    <li><NavLink to="/Exp">Experiences</NavLink></li>
                    <li><NavLink to="/projects">Projects</NavLink></li>
                    <li><NavLink to="/resume">Resume</NavLink></li>                   
-                   <li><NavLink to="/Hiking">Hiking</NavLink></li>
+                   {/* <li><NavLink to="/Hiking">Hiking</NavLink></li> */}
                </ul>
             </div>
         )

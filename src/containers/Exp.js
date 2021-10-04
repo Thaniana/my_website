@@ -16,9 +16,9 @@ const Exp = () => {
                 <GenericExp name="MIT Energy Initiative Research Student" location="PhotoVoltaics Lab, MIT" Semester="June-August 2021" pt1="Building a system to develop and analyse numerous semi conductor compositions to find the ideal solar cell."
                 pt2="Developing the hardware for the device in C whilst doing the analysis of the droplet compositions in Python." pt3="Created a project poster to be presented."></GenericExp>
                 <GenericExp name="Embedded Systems and Software Engineer" location="Mesh Incubator - Mass General Brighm" Semester="June-August 2021" pt1="Designing a system capable of using sensor readings to facilitate the correct placement of a Nasogastric Tube."
-                pt2="The system and its algorithms are in C and Python."></GenericExp>
-                <GenericExp name="Lab Assistant Interconnected Embedded Systems" location="EECS Department MIT" Semester="Feb-May 2021" pt1="Helped students 1 on 1 and in small groups during Lab and Office Hours with their labs and final project."
-                pt2="Debugged hardware connections and software in C, Python, SQL, git and HTTP."></GenericExp>
+                pt2="The system and its algorithms are in C and Python." pt3="And signal processing is done to interpret the sensor readings"></GenericExp>
+                <GenericExp name="Lab Assistant Interconnected Embedded Systems" location="EECS Department MIT" Semester="Feb-May 2021" pt1="Helped students 1 on 1 and in small groups during Lab and Office Hours with their labs."
+                pt2="Debugged hardware connections and software in C, Python, SQL, git and HTTP." pt3="Also helped students with their final projects."></GenericExp>
             </li>
             <li>
                 <h2>Leadership</h2>
