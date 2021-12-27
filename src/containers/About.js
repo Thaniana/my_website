@@ -32,33 +32,33 @@ const About = () => {
                     <div class='single_skill'>
                     <div>Python</div>
                     <div class="container">
-                    <div class="skills python"> 80%</div>
+                    <div class="skills python">advanced</div>
                     </div>
                     </div>
 
                     <div>C, C++</div>
                     <div class="container">
-                    <div class="skills cpp">60%</div>
+                    <div class="skills cpp">good</div>
                     </div>
 
                     <div>Assembly</div>
                     <div class="container">
-                    <div class="skills asm">70%</div>
+                    <div class="skills asm">good</div>
                     </div>
 
                     <div>Web Development with React (HTMl, CSS, Javascript)</div>
                     <div class="container">
-                    <div class="skills react">40%</div>
+                    <div class="skills react">basic</div>
                     </div>
 
                     <div>iOS App Development with Swift</div>
                     <div class="container">
-                    <div class="skills iOS">30%</div>
+                    <div class="skills iOS">basic</div>
                     </div>
 
-                    <div>Microcontrollers: ESP32, Cypress PSoC, Nordic nRF, Intel 8051</div>
+                    <div>SystemVerilog</div>
                     <div class="container">
-                    <div class="skills MCU">70%</div>
+                    <div class="skills MCU">good</div>
                     </div>
 
                     <div id='moreskills'>Other Skills/ Technologies</div>

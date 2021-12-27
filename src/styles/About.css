@@ -72,10 +72,11 @@
 
 .python {width: 80%; background-color: #2af8adce;} /* Green */
 .cpp {width: 60%; background-color: #2195f3d2;} /* Blue */
-.asm {width: 70%; background-color: #f44336d2;} /* Red */
+.asm {width: 60%; background-color: #f44336d2;} /* Red */
 .react {width: 40%; background-color: #808080d8;} /* Dark Grey */
-.iOS {width: 30%; background-color: #5334b9d8;} /* Dark Grey */
-.MCU {width: 70%; background-color: #dacf39d8;} /* Dark Grey */
+.iOS {width: 40%; background-color: #5334b9d8;} /* Dark Grey */
+.MCU {width: 60%; background-color: #dacf39d8;} /* Dark Grey */
+
 
 
 #moreskills{

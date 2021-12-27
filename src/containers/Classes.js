@@ -20,8 +20,6 @@ const Classes = () => {
     </div>
     <h2>Relevant Coursework</h2>
     <GenericClass name="6.111 - Digital System Laborotary" Semester="Fall 2021"/>
-    <GenericClass name="6.031 - Software Construction" Semester="Fall 2021"/>
-    <GenericClass name="6.321 - Solid State Circuits" Semester="Fall 2021"/>
     <GenericClass name="6.036 - Machine Learning" Semester="Fall 2021"/>
     <GenericClass name="6.115 - Microcomputer Project Lab" Semester="Spring 2021"/>
     {/* // pt1= "Class focused on the basics of microcontrollers" pt2="There were 5
