@@ -11,6 +11,10 @@ const Exp = () => {
         <ul class="ExpTypes">
             <li >
                 <h2>Work</h2>
+                <GenericExp name="Gaia AI" location="MIT Energy Efficient Circuits and Systems Lab" Semester="June-August 2021" pt1="Developed and analysed power consumption of a Bluetooth Low Energy(BLE) embedded system.
+                " pt2="Programmed the Processor OS and BLE protocol in C." pt3="Created an iOS app to communicate with the BLE embedded system."></GenericExp>
+                <GenericExp name="Starlink SpaceX" location="MIT Energy Efficient Circuits and Systems Lab" Semester="June-August 2021" pt1="Developed and analysed power consumption of a Bluetooth Low Energy(BLE) embedded system.
+                " pt2="Programmed the Processor OS and BLE protocol in C." pt3="Created an iOS app to communicate with the BLE embedded system."></GenericExp>
                 <GenericExp name="Summer Reseach Assistant" location="MIT Energy Efficient Circuits and Systems Lab" Semester="June-August 2021" pt1="Developed and analysed power consumption of a Bluetooth Low Energy(BLE) embedded system.
                 " pt2="Programmed the Processor OS and BLE protocol in C." pt3="Created an iOS app to communicate with the BLE embedded system."></GenericExp>
                 <GenericExp name="MIT Energy Initiative Research Student" location="PhotoVoltaics Lab, MIT" Semester="June-August 2021" pt1="Building a system to develop and analyse numerous semi conductor compositions to find the ideal solar cell."

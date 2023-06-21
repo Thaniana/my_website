@@ -17,14 +17,11 @@ const About = () => {
             <div class="afterintro">
                 <div class="aboutme">
                     <h1 id="after_intro_head">About me</h1>
-                    <p>I am Suleman, a junior at MIT majoring in Electrical Engineering and Computer Science. As an engineer I am 
-                    passionate about using technology for the betterment and benefit of society. I am interested and have experience 
-                    in software and firmware development. Have a look at my Resume and Experiences (Classes, Research and Projects). </p>
+                    <p>I am Suleman, a graduate of MIT with a Bachelors of Science in Electrical Engineering and Computer Science. As an engineer I am 
+                    passionate about using technology for the betterment and benefit of society. I am interested in and have experience 
+                    in Software, Firmware development and Machine Learning.  Have a look at my Resume and Experiences (Classes, Research and Projects). </p>
                     <p>Outside of College I am really interested in hiking and sports.  When not in class or lab or
                     learning a new software technology at home or hiking I can be found in gym working out or playing basketball.</p>
-                    {/* Remember to take a peek  */}
-                    {/* This summer I just began hiking peaks in 
-                    the White Mountains in New Hampshire and aim to hike the NH48 (48 peaks above 4000ft)(pun intended!) at the beautiful views from the peaks. */}
                 </div>
                 <div class="skills_area">
                     <h1 id="after_intro_head">Skills</h1>
