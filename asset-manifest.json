@@ -1,21 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4a32313.chunk.css",
-    "main.js": "/static/js/main.878518bd.chunk.js",
-    "main.js.map": "/static/js/main.878518bd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5a69a52b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5a69a52b.js.map",
-    "static/js/2.f0d67c6d.chunk.js": "/static/js/2.f0d67c6d.chunk.js",
-    "static/js/2.f0d67c6d.chunk.js.map": "/static/js/2.f0d67c6d.chunk.js.map",
+    "main.css": "/static/css/main.128325eb.css",
+    "main.js": "/static/js/main.87183386.js",
+    "static/media/Suleman_Resume.pdf": "/static/media/Suleman_Resume.480df4bd886975a3c12a.pdf",
     "index.html": "/index.html",
-    "static/css/main.e4a32313.chunk.css.map": "/static/css/main.e4a32313.chunk.css.map",
-    "static/js/2.f0d67c6d.chunk.js.LICENSE.txt": "/static/js/2.f0d67c6d.chunk.js.LICENSE.txt",
-    "static/media/Suleman_Resume.480df4bd.pdf": "/static/media/Suleman_Resume.480df4bd.pdf"
+    "main.128325eb.css.map": "/static/css/main.128325eb.css.map",
+    "main.87183386.js.map": "/static/js/main.87183386.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a69a52b.js",
-    "static/js/2.f0d67c6d.chunk.js",
-    "static/css/main.e4a32313.chunk.css",
-    "static/js/main.878518bd.chunk.js"
+    "static/css/main.128325eb.css",
+    "static/js/main.87183386.js"
   ]
 }
