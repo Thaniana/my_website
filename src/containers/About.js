@@ -33,24 +33,9 @@ const About = () => {
                     </div>
                     </div>
 
-                    <div>C, C++</div>
+                    <div>C</div>
                     <div class="container">
                     <div class="skills cpp">good</div>
-                    </div>
-
-                    <div>Assembly</div>
-                    <div class="container">
-                    <div class="skills asm">good</div>
-                    </div>
-
-                    <div>Web Development with React (HTMl, CSS, Javascript)</div>
-                    <div class="container">
-                    <div class="skills react">basic</div>
-                    </div>
-
-                    <div>iOS App Development with Swift</div>
-                    <div class="container">
-                    <div class="skills iOS">basic</div>
                     </div>
 
                     <div>SystemVerilog</div>
@@ -59,7 +44,7 @@ const About = () => {
                     </div>
 
                     <div id='moreskills'>Other Skills/ Technologies</div>
-                    <div> MATLAB, LaTeX, SQL, Git, bash, RISC-V</div>
+                    <div> pytorch, C++, LaTeX, SQL, Git, shell scripting, RISC-V, ansible, docker, Assembly, CILK</div>
                     
 
 

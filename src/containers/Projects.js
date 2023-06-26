@@ -8,6 +8,14 @@ const Projects = () => {
     return <div class='center'>
         <h1>Projects</h1>
         <div class='AllProjects'>
+        {/* <Genericproject name='Low Power Implementation of Scene Segmantation' photo='FPGA.jpeg' describe="Computer vision system that can perform object classification on handwritten numbers.
+        We decided to do this project because Neural Networks on can run much faster and conusme much lower power on an FPGA."></Genericproject>
+        {/* <Genericproject name='Systolic Array Architecture' photo='FPGA.jpeg' describe="Computer vision system that can perform object classification on handwritten numbers.
+        We decided to do this project because Neural Networks on can run much faster and conusme much lower power on an FPGA."></Genericproject>
+        <Genericproject name='PokerBots' photo='FPGA.jpeg' describe="Computer vision system that can perform object classification on handwritten numbers.
+        We decided to do this project because Neural Networks on can run much faster and conusme much lower power on an FPGA."></Genericproject> */}
+        <Genericproject name='FPGA MNIST ' photo='FPGA.jpeg' describe="Computer vision system that can perform object classification on handwritten numbers.
+        We decided to do this project because Neural Networks on can run much faster and conusme much lower power on an FPGA."></Genericproject>
         <Genericproject name='Create Intervals' link='https://createintervals.herokuapp.com/' photo='intervals.png' describe='This 
         project was created for the web lab class and competition alongside two other students. The goal of the project is 
         to help people create schedules. The website is programmed using React. '></Genericproject>
@@ -20,8 +28,6 @@ const Projects = () => {
         uses an ESP32 to communicate with the sensors on board like the camera and also communicate with an online server via wifi and HTTP methods."></Genericproject>
         <Genericproject name='Shark Attack' photo='sharkattack.jpg' describe="A fun game made for children. The goal of the game is to get the board across
         a rotating board with sharks on it. The project was made as part of the class 2.00b which was held remotely. "></Genericproject>
-        <Genericproject name='FPGA Neural Network (6.111)' photo='FPGA.jpeg' describe="Computer vision system that can perform object classification on handwritten numbers.
-        We decided to do this project because Neural Networks on can run much faster and conusme much lower power on an FPGA."></Genericproject>
         </div>
     </div>
 }
